@@ -36,25 +36,23 @@
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 384,
-            "modifiedTime": 1538551432086,
-            "changeTime": 1538551432086,
-            "contentHash": "829e40862c050b50235b8a4dfe2eab989148ef12"
+            "size": 544,
+            "modifiedTime": 1538561418248,
+            "changeTime": 1538561418248,
+            "contentHash": "87b17571622f2757e9f4a232d747a86d1372913f"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1538538707621,
-            "changeTime": 1538538707621,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 384,
+            "modifiedTime": 1538561418230,
+            "changeTime": 1538561418230,
+            "contentHash": "f470683219ce8db7e376a65b3f949170b0aa0a0f"
         }
     ],
     [
@@ -101,14 +99,14 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1674,
             "modifiedTime": 1538551431920,
             "changeTime": 1538551431920,
-            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -192,53 +190,53 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 25639,
+            "modifiedTime": 1538556665364,
+            "changeTime": 1538556665364,
+            "contentHash": "bb9d6d369fbd7367b4f4f81a0dbc2c74ed737ca5",
             "isMetadataFile": true,
-            "size": 25215,
-            "modifiedTime": 1538551432016,
-            "changeTime": 1538551432016,
-            "contentHash": "f6bb89b8f9fc474e44cb8591f6a4f883cb01b06c"
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 11245,
+            "modifiedTime": 1538556665392,
+            "changeTime": 1538556665392,
+            "contentHash": "1382febca506dfc007d788449b3900166e262dd3",
             "isMetadataFile": true,
-            "size": 10819,
-            "modifiedTime": 1538551432047,
-            "changeTime": 1538551432047,
-            "contentHash": "948fdad4642683c2e8379b2117a31ad8a096021a"
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10909,
+            "modifiedTime": 1538556665409,
+            "changeTime": 1538556665409,
+            "contentHash": "2b36085354c0e54622f620de3abb213d6563f3d6",
             "isMetadataFile": true,
-            "size": 10483,
-            "modifiedTime": 1538551432067,
-            "changeTime": 1538551432067,
-            "contentHash": "d17cfac1c19b54c993ca7c27a3a7fd43d5d28c46"
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10905,
+            "modifiedTime": 1538556665426,
+            "changeTime": 1538556665426,
+            "contentHash": "187a099647d98b1299a5413dbc0a20a440da22b9",
             "isMetadataFile": true,
-            "size": 10479,
-            "modifiedTime": 1538551432080,
-            "changeTime": 1538551432080,
-            "contentHash": "c295269f0e8a251c32fb323ba9af5faa38c70b0e"
+            "state": "u"
         }
     ],
     [
@@ -270,14 +268,14 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1538551431929,
             "changeTime": 1538551431929,
-            "contentHash": "365050f2f2f75d8616042691d4798e13f4d861a8"
+            "contentHash": "365050f2f2f75d8616042691d4798e13f4d861a8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -374,14 +372,14 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1538551431944,
             "changeTime": 1538551431944,
-            "contentHash": "0f4923e275957da875ef9dd4a4416edd1cacb390"
+            "contentHash": "0f4923e275957da875ef9dd4a4416edd1cacb390",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -389,10 +387,10 @@
         {
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1538548536159,
-            "changeTime": 1538548536159,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
+            "size": 192,
+            "modifiedTime": 1538556665293,
+            "changeTime": 1538556665293,
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1596,14 +1594,14 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2681,
             "modifiedTime": 1538551432083,
             "changeTime": 1538551432083,
-            "contentHash": "514a2020a6e83d519c86e44011a8da6117406a9b"
+            "contentHash": "514a2020a6e83d519c86e44011a8da6117406a9b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1622,235 +1620,976 @@
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 189,
             "modifiedTime": 1538551431930,
             "changeTime": 1538551431930,
-            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
+            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1538551431933,
             "changeTime": 1538551431933,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1538551431934,
             "changeTime": 1538551431934,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1538551431934,
             "changeTime": 1538551431934,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1538551431935,
             "changeTime": 1538551431935,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1538551431936,
             "changeTime": 1538551431936,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1538551431937,
             "changeTime": 1538551431937,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1538551431944,
             "changeTime": 1538551431944,
-            "contentHash": "fde082bbbc4a210e94c776ce954622e071351a45"
+            "contentHash": "fde082bbbc4a210e94c776ce954622e071351a45",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538551431947,
             "changeTime": 1538551431947,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1713,
             "modifiedTime": 1538551431951,
             "changeTime": 1538551431951,
-            "contentHash": "535340018370dab1c51cc15807428f44d4400377"
+            "contentHash": "535340018370dab1c51cc15807428f44d4400377",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538551431954,
             "changeTime": 1538551431954,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1764,
             "modifiedTime": 1538551431958,
             "changeTime": 1538551431958,
-            "contentHash": "37d1984e40a4bb25293e702d7e57c2570769325c"
+            "contentHash": "37d1984e40a4bb25293e702d7e57c2570769325c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1003,
             "modifiedTime": 1538551432087,
             "changeTime": 1538551432087,
-            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8"
+            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1538551432089,
             "changeTime": 1538551432089,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538551431933,
             "changeTime": 1538551431933,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1538551431937,
             "changeTime": 1538551431937,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1538556665297,
+            "changeTime": 1538556665297,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1538551431958,
-            "changeTime": 1538551431958,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "state": "u"
         }
     ],
     [
         "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata",
         {
-            "state": "u",
             "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538551432089,
             "changeTime": 1538551432089,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665273,
+            "changeTime": 1538556665273,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+            "isDirectory": false,
+            "size": 58,
+            "modifiedTime": 1538556665275,
+            "changeTime": 1538556665275,
+            "contentHash": "1962a761f211c3ef3eaa4247df5d665f5eddf34d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665277,
+            "changeTime": 1538556665277,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+            "isDirectory": false,
+            "size": 1309,
+            "modifiedTime": 1538556665278,
+            "changeTime": 1538556665278,
+            "contentHash": "01fb95afcc7f61f980863acad9612fdb37628860",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+            "isDirectory": false,
+            "size": 1008,
+            "modifiedTime": 1538556665279,
+            "changeTime": 1538556665279,
+            "contentHash": "bf4af168a3cbfef479e41acdf7053612fd408c25",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+            "isDirectory": false,
+            "size": 1076,
+            "modifiedTime": 1538556665280,
+            "changeTime": 1538556665280,
+            "contentHash": "62e9f3e2f28304c34dc10043501d2f034503c355",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665281,
+            "changeTime": 1538556665281,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1590,
+            "modifiedTime": 1538561418215,
+            "changeTime": 1538561418215,
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+            "isDirectory": false,
+            "size": 1311,
+            "modifiedTime": 1538556665282,
+            "changeTime": 1538556665282,
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+            "isDirectory": false,
+            "size": 651,
+            "modifiedTime": 1538556665283,
+            "changeTime": 1538556665283,
+            "contentHash": "6277c91839f1cc0744b18b5e9a8b60f10b899cb3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665284,
+            "changeTime": 1538556665284,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1538556665284,
+            "changeTime": 1538556665284,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+            "isDirectory": false,
+            "size": 1125,
+            "modifiedTime": 1538556665284,
+            "changeTime": 1538556665284,
+            "contentHash": "2324e9e70036dfbce0395798b9ebd450136ec42a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665285,
+            "changeTime": 1538556665285,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1538556665286,
+            "changeTime": 1538556665286,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1538556665286,
+            "changeTime": 1538556665286,
+            "contentHash": "fe1671cbfff055cfdcb97fa06f7568fa4636c7f9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+            "isDirectory": false,
+            "size": 630,
+            "modifiedTime": 1538556665287,
+            "changeTime": 1538556665287,
+            "contentHash": "ecd8c8b25d163de8b5fac9e9ff4df4e040397405",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1538556665287,
+            "changeTime": 1538556665287,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538556665288,
+            "changeTime": 1538556665288,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1538561418228,
+            "changeTime": 1538561418228,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1538556665290,
+            "changeTime": 1538556665290,
+            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1153,
+            "modifiedTime": 1538561418237,
+            "changeTime": 1538561418237,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1538556665293,
+            "changeTime": 1538556665293,
+            "contentHash": "30c196c7c25f58768ddc36a251ac6a02c94398f0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "size": 1500,
+            "modifiedTime": 1538556665295,
+            "changeTime": 1538556665295,
+            "contentHash": "bb2c8e4cf29efb868c00528516e7133e71dcf062",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1538556665296,
+            "changeTime": 1538556665296,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1538556665297,
+            "changeTime": 1538556665297,
+            "contentHash": "fd202c66585dbc7cc79eefd648a6674a8c7d7b72",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1538556665428,
+            "changeTime": 1538556665428,
+            "contentHash": "4635156374d7680b4243fafef36b0ac4c12fc5dc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+            "isDirectory": false,
+            "size": 292426,
+            "modifiedTime": 1538556665430,
+            "changeTime": 1538556665430,
+            "contentHash": "a9456b80338e2b4f37559c3804c941ab6f7f77ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538556665274,
+            "changeTime": 1538556665274,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/reservationHelper",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538556665280,
+            "changeTime": 1538556665280,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538561418220,
+            "changeTime": 1538561418220,
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/marketService",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1538556665284,
+            "changeTime": 1538556665284,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerList",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1538556665287,
+            "changeTime": 1538556665287,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538561418229,
+            "changeTime": 1538561418229,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538556665292,
+            "changeTime": 1538556665292,
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538556665295,
+            "changeTime": 1538556665295,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538556665430,
+            "changeTime": 1538556665430,
+            "contentHash": "dfdc138c824c8140c5c3e58bc68aef48022dae89",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561418202,
+            "changeTime": 1538561418202,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1818,
+            "modifiedTime": 1538561418203,
+            "changeTime": 1538561418203,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 739,
+            "modifiedTime": 1538561418204,
+            "changeTime": 1538561418204,
+            "contentHash": "c6b33099e04811a813939cf2fe9482493298529c"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4277,
+            "modifiedTime": 1538561418204,
+            "changeTime": 1538561418204,
+            "contentHash": "dfeaa601fdfb11dc5df25989e61c18aae37b060d"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 471,
+            "modifiedTime": 1538561418205,
+            "changeTime": 1538561418205,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538561418220,
+            "changeTime": 1538561418220,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561418222,
+            "changeTime": 1538561418222,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 258,
+            "modifiedTime": 1538561418222,
+            "changeTime": 1538561418222,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1538561418223,
+            "changeTime": 1538561418223,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538561418223,
+            "changeTime": 1538561418223,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 617,
+            "modifiedTime": 1538561418229,
+            "changeTime": 1538561418229,
+            "contentHash": "44afc7284de6fd0213679f0b9176f772e5c62fe8"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561418231,
+            "changeTime": 1538561418231,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1538561418231,
+            "changeTime": 1538561418231,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11179,
+            "modifiedTime": 1538561418247,
+            "changeTime": 1538561418247,
+            "contentHash": "d547fd14a9fcb6c2a422ed1e8e8ef679f24574d6"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1538561418248,
+            "changeTime": 1538561418248,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/customerDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538561418205,
+            "changeTime": 1538561418205,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538561418223,
+            "changeTime": 1538561418223,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/aura/muteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538561418231,
+            "changeTime": 1538561418231,
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538561418247,
+            "changeTime": 1538561418247,
+            "contentHash": "03597716608acc3fe4370c78615c0b51502dc08b"
+        }
+    ],
+    [
+        "/Users/nootchaba/dev/myeasy/force-app/main/default/flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nootchaba/dev/myeasy/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538561418248,
+            "changeTime": 1538561418248,
+            "contentHash": "660d93f5f527458cf9c9c83794efbc5a7169e5e4"
         }
     ]
 ]
