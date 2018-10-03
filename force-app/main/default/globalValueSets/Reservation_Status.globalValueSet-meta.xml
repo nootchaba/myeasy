@@ -6,24 +6,24 @@
         <label>Not Started</label>
     </customValue>
     <customValue>
-        <fullName>Draft   </fullName>
+        <fullName>Draft</fullName>
         <default>false</default>
-        <label>Draft   </label>
+        <label>Draft</label>
     </customValue>
     <customValue>
-        <fullName>Proposal Ready   </fullName>
+        <fullName>Proposal Ready</fullName>
         <default>false</default>
-        <label>Proposal Ready   </label>
+        <label>Proposal Ready</label>
     </customValue>
     <customValue>
-        <fullName>Contracted   </fullName>
+        <fullName>Contracted</fullName>
         <default>false</default>
-        <label>Contracted   </label>
+        <label>Contracted</label>
     </customValue>
     <customValue>
-        <fullName>Scheduled   </fullName>
+        <fullName>Scheduled</fullName>
         <default>false</default>
-        <label>Scheduled   </label>
+        <label>Scheduled</label>
     </customValue>
     <customValue>
         <fullName>Complete</fullName>

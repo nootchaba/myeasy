@@ -6,34 +6,34 @@
         <label>United States</label>
     </customValue>
     <customValue>
-        <fullName>Canada   </fullName>
+        <fullName>Canada</fullName>
         <default>false</default>
-        <label>Canada   </label>
+        <label>Canada</label>
     </customValue>
     <customValue>
-        <fullName>Trinidad &amp; Tobago   </fullName>
+        <fullName>Trinidad &amp; Tobago</fullName>
         <default>false</default>
-        <label>Trinidad &amp; Tobago   </label>
+        <label>Trinidad &amp; Tobago</label>
     </customValue>
     <customValue>
-        <fullName>London   </fullName>
+        <fullName>London</fullName>
         <default>false</default>
-        <label>London   </label>
+        <label>London</label>
     </customValue>
     <customValue>
-        <fullName>Brazil </fullName>
+        <fullName>Brazil</fullName>
         <default>false</default>
-        <label>Brazil </label>
+        <label>Brazil</label>
     </customValue>
     <customValue>
-        <fullName>Japan   </fullName>
+        <fullName>Japan</fullName>
         <default>false</default>
-        <label>Japan   </label>
+        <label>Japan</label>
     </customValue>
     <customValue>
-        <fullName>South America   </fullName>
+        <fullName>South America</fullName>
         <default>false</default>
-        <label>South America   </label>
+        <label>South America</label>
     </customValue>
     <customValue>
         <fullName>Amsterdam</fullName>

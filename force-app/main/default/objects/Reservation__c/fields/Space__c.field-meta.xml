@@ -4,7 +4,7 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Space</label>
-    <referenceTo>Spaces__c</referenceTo>
+    <referenceTo>Space__c</referenceTo>
     <relationshipLabel>Reservation</relationshipLabel>
     <relationshipName>Reservation</relationshipName>
     <required>false</required>

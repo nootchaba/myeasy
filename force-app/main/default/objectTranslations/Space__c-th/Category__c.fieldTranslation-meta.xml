@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Category --></label>
+    <name>Category__c</name>
+    <picklistValues>
+        <masterLabel>Building Block Room</masterLabel>
+        <translation><!-- Building Block Room --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Café</masterLabel>
+        <translation><!-- Café --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cooking Classroom</masterLabel>
+        <translation><!-- Cooking Classroom --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Drawing/Watercolor Studio</masterLabel>
+        <translation><!-- Drawing/Watercolor Studio --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exploration Lab</masterLabel>
+        <translation><!-- Exploration Lab --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Game Room/Arcade</masterLabel>
+        <translation><!-- Game Room/Arcade --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Music Room</masterLabel>
+        <translation><!-- Music Room --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sand Drawing Tables</masterLabel>
+        <translation><!-- Sand Drawing Tables --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Temporary Terrace</masterLabel>
+        <translation><!-- Temporary Terrace --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Walking Meditation Paths</masterLabel>
+        <translation><!-- Walking Meditation Paths --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
